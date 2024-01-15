@@ -13,3 +13,8 @@ yarn run dev
 ```
 
 It will start both front-end and back-end
+
+Default ports:
+
+- Front :3000
+- Back :8080
